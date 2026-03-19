@@ -3,7 +3,7 @@ name: Runs on Jupyter4NFDI
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 15 * * 4"
+    - cron: "0 14 * * 4"
 
 jobs:
   notebooks:
