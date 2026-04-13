@@ -1,3 +1,5 @@
+[![Runs on Jupyter4NFDI](https://github.com/apawlik/Language_Detection_Tutorial/actions/workflows/jupyter4nfdi_ready_check.yml/badge.svg)](https://github.com/apawlik/Language_Detection_Tutorial/actions/workflows/jupyter4nfdi_ready_check.yml)
+
 # Detecting Languages with Python: A Step-by-Step Guide
 
 Unlock the power of **automatic language detection** in your datasets using Python.  
